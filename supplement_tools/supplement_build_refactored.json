@@ -1,0 +1,205 @@
+{
+  "src": "",
+  "id": null,
+  "nhanesId": "",
+  "bundleName": "",
+  "fullName": "Sample",
+  "brandName": "Supp Tools",
+  "brandIpSymbol": "",
+  "upcSku": "850051590427",
+  "productVersionCode": "10001",
+  "pdf": "",
+  "thumbnail": "",
+  "servingsPerContainer": "30",
+  "hasOuterCarton": null,
+  "percentDvFootnote": "Percent Daily Value (%DV) are based on a 2,000 calorie diet.",
+  "labelRelationships": [],
+  "contacts": [
+    {
+      "contactId": null,
+      "text": "Distributed by",
+      "types": [
+        "Distributor"
+      ],
+      "contactDetails": {
+        "src": "",
+        "id": null,
+        "name": "Supp Tools",
+        "streetAddress": "",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US",
+        "zipCode": "60606",
+        "phoneNumber": "1.800.123.4567",
+        "email": "",
+        "webAddress": "www.supptools.com"
+      }
+    }
+  ],
+  "netContents": [],
+  "physicalState": {
+    "langualCode": "E0162",
+    "langualCodeDescription": "Powder"
+  },
+  "servingSizes": [
+    {
+      "order": 1,
+      "minQuantity": 1,
+      "maxQuantity": 1,
+      "unit": "Gram(s)",
+      "notes": "Approx. 1 Scoop",
+      "inSFB": true
+    }
+  ],
+  "targetGroups": [
+    "Adult (18 - 50 Years)",
+    "Women (not pregnant or lactating)"
+  ],
+  "productType": {
+    "langualCode": "A1325",
+    "langualCodeDescription": "Other Combinations"
+  },
+  "statements": [
+    {
+      "type": "Suggested/Recommended/Usage/Directions",
+      "notes": "Suggested use:\\r\\nTake one serving (approx. 1 scoop), mixed with 8 fl. oz. of water 20-30 minutes before training."
+    },
+    {
+      "type": "Precautions re: Children",
+      "notes": "Warning:\\r\\nThis product is only intended to be consumed by healthy adults, 18 years of age or older."
+    },
+    {
+      "type": "Precautions re: Pregnant or Nursing or Prescription Medications",
+      "notes": "Do not use this product if you are pregnant or nursing. Do not take this product before first consulting a licensed, qualified, healthcare professional, especially if you are taking any other dietary supplement, prescription drug or over-the-counter medication; or, if you suspect you have or have been treated for, diagnosed with, or have a family history of, any medical condition."
+    },
+    {
+      "type": "Precautions re: All Other",
+      "notes": "Discontinue use 2 weeks prior to surgery. Immediately discontinue use and contact a medical doctor if you experience any adverse reaction to this product. Do not use if safety seal is broken or missing."
+    },
+    {
+      "type": "Storage",
+      "notes": "Store in a cool, dry place."
+    },
+    {
+      "type": "Precautions re: Children",
+      "notes": "Keep out of reach of children."
+    },
+    {
+      "type": "General Statements: All Other Content",
+      "notes": "This product is sold by weight, not volume. The density of the powder varies, and significant settling of powder may occur during shipping and handling."
+    },
+    {
+      "type": "General Statements: All Other Content",
+      "notes": "This product contains the servings indicated when measured exactly by weight."
+    },
+    {
+      "type": "Formulation re: Other",
+      "notes": "Made in the USA using strategically sourced domestic and imported ingredients and components."
+    },
+    {
+      "type": "FDA Disclaimer Statement",
+      "notes": "These statements have not been evaluated by the Food and Drug administration. This product is not intended to diagnose, treat, cure, or prevent any disease."
+    },
+    {
+      "type": "General Statements: All Other Content",
+      "notes": "iD\\r\\nSeries"
+    },
+    {
+      "type": "Formulation re: Other",
+      "notes": "Explosive pre-workout and cutting formula"
+    },
+    {
+      "type": "FDA Statement of Identity",
+      "notes": "Dietary Supplement"
+    }
+  ],
+  "claims": [],
+  "events": [],
+  "userGroups": [
+    {
+      "dailyValueTargetGroupName": "Adults and children 4 or more years of age",
+      "langualCode": "P0250",
+      "langualCodeDescription": "Adults and Children 4 years and above"
+    }
+  ],
+  "ingredientRows": [
+    {
+      "order": 1,
+      "ingredientId": null,
+      "description": null,
+      "notes": "",
+      "quantity": [
+        {
+          "servingSizeOrder": 1,
+          "servingSizeQuantity": 1,
+          "operator": "=",
+          "quantity": 42,
+          "unit": "mg",
+          "dailyValueTargetGroup": [],
+          "servingSizeUnit": "Gram(s)"
+        }
+      ],
+      "nestedRows": [],
+      "name": "Gamma Oryzanol",
+      "category": null,
+      "ingredientGroup": null,
+      "uniiCode": null,
+      "alternateNames": [],
+      "forms": []
+    },
+    {
+      "order": 2,
+      "ingredientId": null,
+      "description": null,
+      "notes": "",
+      "quantity": [
+        {
+          "servingSizeOrder": 1,
+          "servingSizeQuantity": 1,
+          "operator": "=",
+          "quantity": 4,
+          "unit": "mcg",
+          "dailyValueTargetGroup": [],
+          "servingSizeUnit": "Gram(s)"
+        }
+      ],
+      "nestedRows": [],
+      "name": "Gelatin",
+      "category": null,
+      "ingredientGroup": null,
+      "uniiCode": null,
+      "alternateNames": [],
+      "forms": []
+    },
+    {
+      "order": 3,
+      "ingredientId": null,
+      "description": null,
+      "notes": "",
+      "quantity": [
+        {
+          "servingSizeOrder": 1,
+          "servingSizeQuantity": 1,
+          "operator": "=",
+          "quantity": 32,
+          "unit": "mg",
+          "dailyValueTargetGroup": [],
+          "servingSizeUnit": "Gram(s)"
+        }
+      ],
+      "nestedRows": [],
+      "name": "Ginkgo Biloba",
+      "category": null,
+      "ingredientGroup": null,
+      "uniiCode": null,
+      "alternateNames": [],
+      "forms": []
+    }
+  ],
+  "otheringredients": {
+    "text": null,
+    "ingredients": []
+  },
+  "offMarket": 0,
+  "entryDate": ""
+}

@@ -1,0 +1,5 @@
+gandi (domain host)
+next.js (uses react, builds site)
+netfily (headless host, provides dynamic server functions)
+medusa (headless e-commerce)
+auth.js or supabase auth

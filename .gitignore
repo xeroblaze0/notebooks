@@ -1,0 +1,26 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore data files
+*.csv
+*.tsv
+*.xlsx
+
+# Ignore notebook outputs
+*.nbconvert.ipynb
+
+.venv
