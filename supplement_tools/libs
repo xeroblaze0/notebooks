@@ -1,5 +1,9 @@
-gandi (domain host)
-next.js (uses react, builds site)
-netfily (headless host, provides dynamic server functions)
+* next.js (uses react, builds site)
+* gandi (domain host)
+* netfily (headless host, provides dynamic server functions)
+└neon w/ aws east2 for database 
+* zoho mail (website's own email host)
+* └ zoho email has auth keys *
+* resend for magic keys
 medusa (headless e-commerce)
 auth.js or supabase auth
